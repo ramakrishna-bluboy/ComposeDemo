@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041286037678",
+    "project_id": "caremark-demo",
+    "storage_bucket": "caremark-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041286037678:android:bc0393b104b3e219b0ed3f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3FoG0pOCz9QhSiTAe60DGV_DnryIsJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
